@@ -5,17 +5,13 @@
   Passionate about turning data into answers — and answers into decisions.
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="data gif" height="180"/>
-</p>
-
 ---
 
 ## 🌟 About Me
 
-I’m a **Data Analyst** focused on building clean dashboards, analyzing real-world datasets, and developing my skills toward becoming a **Senior Data Analyst & Data Scientist**.
+I’m a **Data Analyst** focused on building clean dashboards, analyzing real-world datasets, and developing my skills toward becoming a **Senior Data Analyst & Data Scientist**.  
 
-I enjoy simplifying complex data problems and turning them into insights people can actually use.
+With a strong enthusiasm for **Mathematics, Statistics, and Computer Science**, I enjoy simplifying complex data problems and turning them into insights people can actually use.
 
 - 📊 **Current focus:** Data Analysis, BI Dashboards, ML-driven insights  
 - 🚀 **Learning:** Machine Learning & Python for Data Science  
