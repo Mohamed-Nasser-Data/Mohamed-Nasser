@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Mohamed Nasser</h1>
-<h3 align="center">Data Analyst | BI Developer | Aspiring Data Scientist</h3>
+<h3 align="center">Data Analyst | Aspiring Senior Data Analyst & Future Data Scientist</h3>
 
 <p align="center">
   Passionate about turning data into answers — and answers into decisions.
@@ -9,14 +9,12 @@
 
 ## 🌟 About Me
 
-I’m a **Data Analyst** focused on building clean dashboards, analyzing real-world datasets, and developing my skills toward becoming a **Data Scientist**.
+I’m a **Data Analyst** focused on building clean dashboards, analyzing real-world datasets, and developing my skills toward becoming a **Senior Data Analyst & Data Scientist**.
 
-I enjoy simplifying complex data problems and turning them into insights people can actually use.
-
-- 📊 **Current focus:** Data Analysis, BI Dashboards, SQL projects  
-- 🚀 **Learning:** IBM Data Analyst Track, Python for DS, Statistics  
+- 📊 **Current focus:** Data Analysis, BI Dashboards, ML-driven insights  
+- 🚀 **Learning:** Machine Learning & Python for Data Science  
 - 🤝 **Open to:** Analysis projects, collaborations, internships  
-- 📫 **Contact:** (اكتب الايميل بتاعك هنا)
+- 📫 **Contact:** mohamedhamasahhh@gmail.com
 
 ---
 
@@ -50,41 +48,3 @@ I enjoy simplifying complex data problems and turning them into insights people 
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
 </div>
-
----
-
-## 📂 Featured Projects
-
-### 🔹 **Amazon Sales Dashboard — Power BI**
-Insights on 6 years of sales performance: trends, top customers, revenue growth.
-
-### 🔹 **Python EDA — Customer Behavior**
-Cleaning, exploring, and visualizing transactional data.
-
-### 🔹 **SQL Analysis — Retail Database**
-Complex queries, joins, KPIs, segmentation.
-
-> *(أقدر أضيف روابط مشاريعك بمجرد ما تبعتهم)*
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MohamedNasser&show_icons=true&theme=react&hide_border=true" height="150"/>
-<img src="https://streak-stats.demolab.com?user=MohamedNasser&theme=react&hide_border=true" height="150"/>
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="left">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/)  
-[![Email](https://img.shields.io/badge/Email-Send-green?style=flat&logo=gmail)](mailto:)
-
-</div>
-
