@@ -3,19 +3,22 @@
 
 <p align="center">
 
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=mohamed-nasser-data&label=Profile%20Views&color=0e75b6&style=for-the-badge" height="24"/>
+
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/mohamed-nasser-data/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" height="28"  />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" height="24"  />
   </a>
 
   <!-- Instagram -->
   <a href="https://www.instagram.com/mohamed_nasser57/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge&logo=instagram" height="28" />
+    <img src="https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge&logo=instagram" height="24" />
   </a>
 
   <!-- Gmail -->
   <a href="mailto:mohamedhamasahhh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-orange?style=for-the-badge&logo=gmail" height="28" />
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-orange?style=for-the-badge&logo=gmail" height="24" />
   </a>
 
 </p>
