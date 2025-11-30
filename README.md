@@ -2,7 +2,22 @@
 <h3 align="center">Data Analyst | BI Developer | Aspiring Data Scientist</h3>
 
 <p align="center">
-  Passionate about turning data into answers — and answers into decisions.
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/mohamed-nasser-data/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" height="28"  />
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/mohamed_nasser57/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge&logo=instagram" height="28" />
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:mohamedhamasahhh@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-orange?style=for-the-badge&logo=gmail" height="28" />
+  </a>
+
 </p>
 
 ---
