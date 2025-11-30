@@ -11,6 +11,8 @@
 
 I’m a **Data Analyst** focused on building clean dashboards, analyzing real-world datasets, and developing my skills toward becoming a **Senior Data Analyst & Data Scientist**.
 
+I enjoy simplifying complex data problems and turning them into insights people can actually use.
+
 - 📊 **Current focus:** Data Analysis, BI Dashboards, ML-driven insights  
 - 🚀 **Learning:** Machine Learning & Python for Data Science  
 - 🤝 **Open to:** Analysis projects, collaborations, internships  
