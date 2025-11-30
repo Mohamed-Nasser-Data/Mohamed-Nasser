@@ -5,6 +5,10 @@
   Passionate about turning data into answers — and answers into decisions.
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="data gif" height="180"/>
+</p>
+
 ---
 
 ## 🌟 About Me
