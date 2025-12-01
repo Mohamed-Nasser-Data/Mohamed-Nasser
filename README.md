@@ -1,5 +1,6 @@
 <h1 align="center">👋 Hey, I'm Mohamed Nasser</h1>
 <h3 align="center">Data Analyst | BI Developer | Aspiring Data Scientist</h3>
+<p align="center"> Passionate about turning data into answers — and answers into decisions. </p>
 
 <p align="center">
 
